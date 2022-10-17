@@ -1,9 +1,13 @@
-title: Your awesome title
-author: GitHub User
+title: Grusha Dev
+author: Grushaaa.K
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Grushenka Kim
 show_excerpts: true # set to true to show excerpts on the homepage
+url: "https://grushaKim.github.io/"
+repository: "grushaKim/grushaKim.github.io"
+future: true
+
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
